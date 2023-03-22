@@ -1,2 +1,7 @@
 # cf-workers-redirect
-Quick website redirection script to use with CloudFlare workers
+
+Rename `wrangler.toml.dist` to `wrangler.toml`
+
+Update `[vars]` in `wrangler.toml`
+
+Deploy using `npm run deploy` 

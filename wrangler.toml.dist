@@ -1,0 +1,7 @@
+main = "dist/index.js"
+name = "cloudflare-workers-name"
+compatibility_date = "2023-03-21"
+
+[vars]
+DESTINATION_URL = "https://www.google.com"
+STATUS_CODE = 301
